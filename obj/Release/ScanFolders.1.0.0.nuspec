@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ScanFolders</id>
+    <version>1.0.0</version>
+    <authors>GabrielBrl</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>This package was created to translate byte (double, long, int) in their names in unit of memory.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gabri\repos\ProjetosNuget\ScanFolders\bin\Release\net6.0\ScanFolders.dll" target="lib\net6.0\ScanFolders.dll" />
+    <file src="C:\Users\gabri\repos\ProjetosNuget\ScanFolders\README.md" target="\README.md" />
+  </files>
+</package>

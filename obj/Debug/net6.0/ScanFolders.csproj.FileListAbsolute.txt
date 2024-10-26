@@ -1,0 +1,12 @@
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\bin\Debug\net6.0\ScanFolders.deps.json
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\bin\Debug\net6.0\ScanFolders.dll
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\bin\Debug\net6.0\ScanFolders.pdb
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.AssemblyInfoInputs.cache
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.AssemblyInfo.cs
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.csproj.CoreCompileInputs.cache
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.dll
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\refint\ScanFolders.dll
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.pdb
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ref\ScanFolders.dll
+C:\Users\gabri\repos\ProjetosNuget\ScanFolders\obj\Debug\net6.0\ScanFolders.csproj.AssemblyReference.cache
