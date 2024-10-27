@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("\n      This package was created to find files and folders by a path.\n    ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+0780bec32f133f3bc7afdddd4fd753eb9a25e8b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+d286060824737d97d5d8cd38378c2a55c6729b6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScanFolders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScanFolders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
